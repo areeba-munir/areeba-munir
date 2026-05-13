@@ -1,13 +1,12 @@
-  <img src="https://capsule-render.vercel.app/api?type=slice&height=300&text=Hi!%20I%27m%20A%20r%20e%20e%20b%20a%20%E2%9C%8D%EF%B8%8F&fontSize=49&descAlign=52&animation=fadeIn&fontAlign=50&section=header&textBg=false&fontAlignY=43&descSize=25" alt="Python" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=250&text=Hi!%20I%27m%20%20A%20r%20e%20e%20b%20a%20%E2%9C%8D%EF%B8%8F&fontSize=49&descAlign=52&animation=fadeIn&fontAlign=50&section=header&textBg=false&fontAlignY=43" alt="Python" />
 
 
 ### 👨‍💻 About Me
-I am a passionate **Data Scientist & Machine Learning Developer** who loves turning raw data into actionable business intelligence. I specialize in building end-to-end ML applications and interactive data dashboards.
+I am a passionate CS grad aspiring **Data Scientist** who loves turning raw data into actionable business intelligence. I specialize in building end-to-end ML applications and interactive data dashboards.
 
-- 🔭 I’m currently working on: **Advanced Customer Segmentation Models**
-- 🌱 I’m currently learning: **Deep Learning & Cloud Deployment**
-- 💬 Ask me about: **Python, K-Means Clustering, Streamlit, and Data Visualization**
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+- 🔭 I’m currently working on: **Data Science & Data Analytics Projects**
+- 🌱 I’m currently learning: **Advance Machine Learning Conceptst**
+- 📫 How to reach me: [your.email@example.com](mailto:areebamunir51@gmail.com)
 
 ---
 
@@ -29,26 +28,8 @@ I am a passionate **Data Scientist & Machine Learning Developer** who loves turn
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 🚀 Featured Portfolio Project
-
-#### 🛍️ [Executive Customer Intelligence Platform](Insert_Your_Streamlit_Cloud_Link_Here)
-An AI-driven behavioral analytics dashboard built with Python and Scikit-Learn. It uses Unsupervised Machine Learning (K-Means Clustering) to dynamically segment customers into marketing personas and generates actionable business strategies.
-* **Tech:** Python, Streamlit, Plotly, Pandas, Scikit-Learn
-
----
-
 ### 🤝 Connect with me
 
 <p align="left">
-<a href="Insert_Your_LinkedIn_Link_Here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="Insert_Your_Kaggle_Or_Portfolio_Link_Here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/areeba-munir-044882258/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BH1Wps3nsS3u06n1Rp9SBsQ%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+
