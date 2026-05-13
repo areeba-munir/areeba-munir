@@ -5,7 +5,7 @@
 I am a passionate CS grad aspiring **Data Scientist** who loves turning raw data into actionable business intelligence. I specialize in building end-to-end ML applications and interactive data dashboards.
 
 - 🔭 I’m currently working on: **Data Science & Data Analytics Projects**
-- 🌱 I’m currently learning: **Advance Machine Learning Conceptst**
+- 🌱 I’m currently learning: **Advanced Machine Learning Concepts **
 - 📫 How to reach me: [areebamunir51@gmail.com](mailto:your.email@example.com)
 ---
 
