@@ -1,4 +1,5 @@
-# Hi there, I'm [Areeba Munir] 👋
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=300&text=Hi!%20I%27m%20A%20r%20e%20e%20b%20a%20%E2%9C%8D%EF%B8%8F&fontSize=49&descAlign=52&animation=fadeIn&fontAlign=50&section=header&textBg=false&fontAlignY=43&descSize=25" alt="Python" />
+
 
 ### 👨‍💻 About Me
 I am a passionate **Data Scientist & Machine Learning Developer** who loves turning raw data into actionable business intelligence. I specialize in building end-to-end ML applications and interactive data dashboards.
