@@ -6,8 +6,7 @@ I am a passionate CS grad aspiring **Data Scientist** who loves turning raw data
 
 - 🔭 I’m currently working on: **Data Science & Data Analytics Projects**
 - 🌱 I’m currently learning: **Advance Machine Learning Conceptst**
-- 📫 How to reach me: [your.email@example.com](mailto:areebamunir51@gmail.com)
-
+- 📫 How to reach me: [areebamunir51@gmail.com](mailto:your.email@example.com)
 ---
 
 ### 🛠️ Languages and Tools
